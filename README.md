@@ -16,7 +16,7 @@ This repository contains a collection list of amazing English language resources
 - [AudioLingua](https://audio-lingua.eu/spip.php?rubrique2)
 - [ListenAndWrite](http://listen-and-write.com/)
 - [Storynory](https://www.storynory.com/)
-
+- [ESLVideo](https://www.eslvideo.com/)
 
 ## Reading
 - [English e-Reader](https://english-e-reader.net/)
